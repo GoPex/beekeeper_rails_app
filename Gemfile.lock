@@ -1,6 +1,6 @@
 GIT
   remote: https://AlbinOS@bitbucket.org/gopex/beekeeper-api.git
-  revision: 112b7336c573efa31acbc3a1c5c78a042956081b
+  revision: fde45d913f5fd0d4f537b0a2250b4084df9c4279
   branch: master
   specs:
     beekeeper-api (0.1.0)
